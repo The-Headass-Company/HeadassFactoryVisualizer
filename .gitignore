@@ -1,0 +1,12 @@
+[Bb]uilds
+[Ll]ogs
+[Oo]bj
+.vscode
+.vs
+!/[Aa]ssets/**/*.meta
+*.apk
+*.aab
+*.unitypackage
+*.csproj
+*.sln
+Library
